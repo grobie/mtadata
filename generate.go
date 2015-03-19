@@ -33,7 +33,6 @@ type station struct {
 
 type feature struct {
 	t string `json="type"`
-	:q
 }
 
 func main() {
