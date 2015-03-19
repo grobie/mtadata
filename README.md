@@ -2,6 +2,9 @@
 
 ## data
 
+The data format used by [Mapbox](https://www.mapbox.com/) is
+[.geojson](http://geojson.org/).
+
 ### Colors
 
 * MTA Mode
