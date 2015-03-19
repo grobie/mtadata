@@ -4,15 +4,21 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
 		<title>MAP BOX TEST</title>
-		<script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.2/p5.js"></script>
-		<script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.2/addons/p5.dom.js"></script>
-		<script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.2/addons/p5.sound.js"></script>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css' rel='stylesheet' />
 		<script language="javascript" type="text/javascript" src="mapboxtest.js"></script></head>
 <body>
 
-</body>
-<p>
+	<div id='map'></div>
+<script>
+console.log("hello");
+L.mapbox.accessToken = 'pk.eyJ1IjoicGllcnJlcGllcnJlIiwiYSI6Ilk0NTlEcTAifQ.wb5BKEMZmXOC37hCDcC_lQ';
+var map = L.mapbox.map('map', 'pierrepierre.lgdei48h')
+    .setView([40, -74.50], 9);
 
-</p>
+ console.log(map);
+</script>
+
+</body>
 </html>
