@@ -1,3 +1,4 @@
+Division,Line,Station_Name,Station_Latitude,Station_Longitude,Route_1,Route_2,Route_3,Route_4,Route_5,Route_6,Route_7,Route_8,Route_9,Route_10,Route_11,Entrance_Type,Entry,Exit_Only,Vending,Staffing,Staff_Hours,ADA,ADA_Notes,Free_Crossover,North_South_Street,East_West_Street,Corner,Latitude,Longitude
 BMT,Astoria,Ditmars Blvd,40.775036,-73.912034,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,23rd Ave,NW,40.775149,-73.912074
 BMT,Astoria,Ditmars Blvd,40.775036,-73.912034,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,23rd Ave,NE,40.77481,-73.912151
 BMT,Astoria,Ditmars Blvd,40.775036,-73.912034,N,Q,,,,,,,,,,Stair,YES,,YES,FULL,,FALSE,,TRUE,31st St,23rd Ave,NE,40.775025,-73.911891
