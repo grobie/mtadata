@@ -1,5 +1,6 @@
 import csv
 import json
+import sys
 
 class Station:
 	def __init__(self, name, line, lat, long):
@@ -19,6 +20,11 @@ class Station:
 	def ratio(self):
 		return float(self.entries) / float(self.exits)
 
+def normalize(name):
+	s = name
+	if s.endswith('Av'):
+		s = s + 'e'
+	return s.upper()
 
 stations = {}
 
@@ -27,14 +33,15 @@ with open('data/station-entrances.csv', newline='') as station_entrances:
 	for row in reader:
 		name = row['Station_Name']
 		line = row['Route_1']
-		lat = row['Station_Latitude']
+		lat  = row['Station_Latitude']
 		long = row['Station_Longitude']
-		stations[name.upper()] = Station(name, line, lat, long)
+
+		stations[normalize(name)] = Station(name, line, lat, long)
 
 with open('data/turnstile.csv', newline='') as turnstile_csv:
 	reader = csv.DictReader(turnstile_csv)
 	for row in reader:
-		name = row['STATION'].upper()
+		name = normalize(row['STATION'])
 		if stations.get(name) == None:
 			continue
 
@@ -47,14 +54,13 @@ with open('data/turnstile.csv', newline='') as turnstile_csv:
 		stations[name].exits += exits
 
 features = []
-for upper in stations:
-	station = stations[upper]
+for key in stations:
+	station = stations[key]
 
 	# skip if no match. Sorry stations without exits.
 	if station.exits == 0:
 		continue
 
-	# TODO(grobie): generate JSON
 	features.append({
 		'type': 'Feature',
 		'geometry': {
@@ -73,5 +79,7 @@ for upper in stations:
 			'marker-color': station.color(),
 		},
 	})
+geojson = {'type': 'FeatureCollection', 'features': features }
 
-print(json.dumps({'type': 'FeatureCollection', 'features': features }))
+print('Dumping .geojson for', len(features), 'stations', file=sys.stderr)
+print(json.dumps(geojson, sort_keys=True))
