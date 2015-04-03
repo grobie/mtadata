@@ -25,7 +25,7 @@ publish: web/public/data/mta-stations.geojson web/public/index.html
 	git checkout master
 
 web/public/data/mta-stations.geojson: data/station-entrances.csv data/turnstile.csv generate_json.py
-	python3 generate_json.py | jq . > $@
+	python3 generate_json.py > $@
 
 data:
 	mkdir -p $@

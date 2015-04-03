@@ -3,1064 +3,38 @@
     {
       "geometry": {
         "coordinates": [
-          "-73.838591",
-          "40.878663"
+          "-73.898654",
+          "40.676992"
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "Line: 5<br />Entries / Exits: 524318630 / 46445742<br />Ratio: 11.29",
-        "entries": 524318630,
-        "exits": 46445742,
-        "line": "5",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Baychester Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.973946",
-          "40.686113"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: C<br />Entries / Exits: 707830220 / 374611192<br />Ratio: 1.89",
-        "entries": 707830220,
-        "exits": 374611192,
-        "line": "C",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Lafayette Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.905249",
-          "40.682829"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 160488644 / 152449438<br />Ratio: 1.05",
-        "entries": 160488644,
-        "exits": 152449438,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Bushwick Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.011056",
-          "40.706476"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 836799664 / 512022564<br />Ratio: 1.63",
-        "entries": 836799664,
-        "exits": 512022564,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Broad St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.803326",
-          "40.707564"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: F<br />Entries / Exits: 879117480 / 902955537<br />Ratio: 0.97",
-        "entries": 879117480,
-        "exits": 902955537,
-        "line": "F",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Parsons Blvd"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.868457",
-          "40.848828"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 258621669 / 129901349<br />Ratio: 1.99",
-        "entries": 258621669,
-        "exits": 129901349,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Bronx Park East"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.911586",
-          "40.699814"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 3165521009 / 2469004664<br />Ratio: 1.28",
-        "entries": 3165521009,
-        "exits": 2469004664,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Myrtle Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.96007",
-          "40.688873"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: G<br />Entries / Exits: 534106642 / 522844945<br />Ratio: 1.02",
-        "entries": 534106642,
-        "exits": 522844945,
-        "line": "G",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Classon Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.860495",
-          "40.854364"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 5<br />Entries / Exits: 250091730 / 133429299<br />Ratio: 1.87",
-        "entries": 250091730,
-        "exits": 133429299,
-        "line": "5",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Morris Park"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.891865",
-          "40.829993"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 7550015322 / 1308681840<br />Ratio: 5.77",
-        "entries": 7550015322,
-        "exits": 1308681840,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Freeman St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.92261",
-          "40.664717"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 3<br />Entries / Exits: 1458125552 / 1191070564<br />Ratio: 1.22",
-        "entries": 1458125552,
-        "exits": 1191070564,
-        "line": "3",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Sutter Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.962246",
-          "40.661614"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: B<br />Entries / Exits: 1332726643 / 1245555499<br />Ratio: 1.07",
-        "entries": 1332726643,
-        "exits": 1245555499,
-        "line": "B",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Prospect Park"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.975098",
-          "40.680829"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 2009665817 / 1379873311<br />Ratio: 1.46",
-        "entries": 2009665817,
-        "exits": 1379873311,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Bergen St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.907807",
-          "40.81649"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 536298401 / 123827800<br />Ratio: 4.33",
-        "entries": 536298401,
-        "exits": 123827800,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Jackson Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.902447",
-          "40.663515"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 3<br />Entries / Exits: 487522943 / 322517436<br />Ratio: 1.51",
-        "entries": 487522943,
-        "exits": 322517436,
-        "line": "3",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Junius St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.92074",
-          "40.756879"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: M<br />Entries / Exits: 1838697301 / 1346514700<br />Ratio: 1.37",
-        "entries": 1838697301,
-        "exits": 1346514700,
-        "line": "M",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Steinway St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.879159",
-          "40.828584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 6981326349 / 528099062<br />Ratio: 13.22",
-        "entries": 6981326349,
-        "exits": 528099062,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Elder Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.90177",
-          "40.819585"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 2126153600 / 1324920760<br />Ratio: 1.6",
-        "entries": 2126153600,
-        "exits": 1324920760,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Prospect Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.956848",
-          "40.68138"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 71902835902 / 123216296976<br />Ratio: 0.58",
-        "entries": 71902835902,
-        "exits": 123216296976,
-        "line": "A",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Franklin Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.981233",
-          "40.577422"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: D<br />Entries / Exits: 1618808436 / 1511097232<br />Ratio: 1.07",
-        "entries": 1618808436,
-        "exits": 1511097232,
-        "line": "D",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Stillwell Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.987437",
-          "40.718315"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: F<br />Entries / Exits: 78454677839 / 50676099561<br />Ratio: 1.55",
-        "entries": 78454677839,
-        "exits": 50676099561,
-        "line": "F",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Essex St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.810708",
-          "40.70546"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: F<br />Entries / Exits: 6540590686 / 3229022530<br />Ratio: 2.03",
-        "entries": 6540590686,
-        "exits": 3229022530,
-        "line": "F",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Sutphin Blvd"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.002906",
-          "40.733422"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 1<br />Entries / Exits: 80593310564 / 30957096235<br />Ratio: 2.6",
-        "entries": 80593310564,
-        "exits": 30957096235,
-        "line": "1",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Christopher St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.910456",
-          "40.682893"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 349157699 / 140625406<br />Ratio: 2.48",
-        "entries": 349157699,
-        "exits": 140625406,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Chauncey St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.940858",
-          "40.679921"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 657168385 / 733640054<br />Ratio: 0.9",
-        "entries": 657168385,
-        "exits": 733640054,
-        "line": "A",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Kingston-Throop"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.889395",
-          "40.665449"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 3<br />Entries / Exits: 1722955801 / 1376218074<br />Ratio: 1.25",
-        "entries": 1722955801,
-        "exits": 1376218074,
-        "line": "3",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Van Siclen Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.904046",
-          "40.688764"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 542627239 / 485800076<br />Ratio: 1.12",
-        "entries": 542627239,
-        "exits": 485800076,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Wilson Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.011029",
-          "40.710668"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: R<br />Entries / Exits: 124630329519 / 43887518281<br />Ratio: 2.84",
-        "entries": 124630329519,
-        "exits": 43887518281,
-        "line": "R",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Cortlandt St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.927397",
-          "40.697857"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: M<br />Entries / Exits: 133972702 / 169701408<br />Ratio: 0.79",
-        "entries": 133972702,
-        "exits": 169701408,
-        "line": "M",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Central Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.828121",
-          "40.852462"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 7645355312 / 1009831935<br />Ratio: 7.57",
-        "entries": 7645355312,
-        "exits": 1009831935,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Pelham Bay Park"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.008585",
-          "40.714111"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 142292323651 / 165671952678<br />Ratio: 0.86",
-        "entries": 142292323651,
-        "exits": 165671952678,
-        "line": "A",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Chambers St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.886283",
-          "40.826525"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 4319145324 / 151994712<br />Ratio: 28.42",
-        "entries": 4319145324,
-        "exits": 151994712,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Whitlock Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.961495",
-          "40.655292"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: B<br />Entries / Exits: 1354020248 / 1234676415<br />Ratio: 1.1",
-        "entries": 1354020248,
-        "exits": 1234676415,
-        "line": "B",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Parkside Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.906006",
-          "40.752885"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: M<br />Entries / Exits: 931105389 / 886555836<br />Ratio: 1.05",
-        "entries": 931105389,
-        "exits": 886555836,
-        "line": "M",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Northern Blvd"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.893064",
-          "40.824073"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 1448566786 / 412291308<br />Ratio: 3.51",
-        "entries": 1448566786,
-        "exits": 412291308,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Simpson St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.957757",
-          "40.708359"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 1980570049 / 20336288413<br />Ratio: 0.1",
-        "entries": 1980570049,
-        "exits": 20336288413,
+        "description": "Line: J<br />Entries / Exits: 313234729 / 343257797<br />Ratio: 0.91",
+        "entries": 313234729,
+        "exits": 343257797,
         "line": "J",
         "marker-color": "#cd5c5c",
         "marker-symbol": "rail-metro",
-        "title": "Marcy Av"
+        "title": "Alabama Av"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          "-73.988114",
-          "40.718611"
+          "-73.867352",
+          "40.865462"
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "Line: F<br />Entries / Exits: 1487094973 / 1182219900<br />Ratio: 1.26",
-        "entries": 1487094973,
-        "exits": 1182219900,
-        "line": "F",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Delancey St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.867164",
-          "40.871356"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 280872883 / 114432575<br />Ratio: 2.45",
-        "entries": 280872883,
-        "exits": 114432575,
+        "description": "Line: 2<br />Entries / Exits: 293932560 / 119133472<br />Ratio: 2.47",
+        "entries": 293932560,
+        "exits": 119133472,
         "line": "2",
         "marker-color": "#32cd32",
         "marker-symbol": "rail-metro",
-        "title": "Burke Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.87255",
-          "40.689941"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 214876196 / 125370461<br />Ratio: 1.71",
-        "entries": 214876196,
-        "exits": 125370461,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Cypress Hills"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.009509",
-          "40.710368"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 252729149949 / 105651198795<br />Ratio: 2.39",
-        "entries": 252729149949,
-        "exits": 105651198795,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Fulton St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.985065",
-          "40.690545"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 823258283 / 994153911<br />Ratio: 0.83",
-        "entries": 823258283,
-        "exits": 994153911,
-        "line": "2",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Hoyt St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.896548",
-          "40.674542"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 411667237 / 240347121<br />Ratio: 1.71",
-        "entries": 411667237,
-        "exits": 240347121,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Liberty Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.884079",
-          "40.666235"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 3<br />Entries / Exits: 1661379380 / 1421865180<br />Ratio: 1.17",
-        "entries": 1661379380,
-        "exits": 1421865180,
-        "line": "3",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "New Lots Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.997141",
-          "40.722301"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 15421960833 / 5038429506<br />Ratio: 3.06",
-        "entries": 15421960833,
-        "exits": 5038429506,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Spring St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.98311",
-          "40.677316"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: R<br />Entries / Exits: 824830546 / 1135333922<br />Ratio: 0.73",
-        "entries": 824830546,
-        "exits": 1135333922,
-        "line": "R",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Union St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.922913",
-          "40.706607"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 722446312 / 414916906<br />Ratio: 1.74",
-        "entries": 722446312,
-        "exits": 414916906,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Jefferson St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.890549",
-          "40.820948"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 1068558347 / 615692023<br />Ratio: 1.74",
-        "entries": 1068558347,
-        "exits": 615692023,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Hunts Point Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.014065",
-          "40.704817"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 4<br />Entries / Exits: 44994834902 / 66520771234<br />Ratio: 0.68",
-        "entries": 44994834902,
-        "exits": 66520771234,
-        "line": "4",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Bowling Green"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.993728",
-          "40.601875"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: D<br />Entries / Exits: 5470272273 / 1240761434<br />Ratio: 4.41",
-        "entries": 5470272273,
-        "exits": 1240761434,
-        "line": "D",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Bay Parkway"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.933147",
-          "40.706152"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 886721343 / 511993961<br />Ratio: 1.73",
-        "entries": 886721343,
-        "exits": 511993961,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Morgan Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.903077",
-          "40.704423"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: M<br />Entries / Exits: 433523972 / 417089321<br />Ratio: 1.04",
-        "entries": 433523972,
-        "exits": 417089321,
-        "line": "M",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Forest Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.006886",
-          "40.719318"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 1<br />Entries / Exits: 864088956 / 550121625<br />Ratio: 1.57",
-        "entries": 864088956,
-        "exits": 550121625,
-        "line": "1",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Franklin St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.937243",
-          "40.748973"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: E<br />Entries / Exits: 3605722777 / 1846647429<br />Ratio: 1.95",
-        "entries": 3605722777,
-        "exits": 1846647429,
-        "line": "E",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Queens Plaza"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.944053",
-          "40.714565"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 1072502522 / 690940443<br />Ratio: 1.55",
-        "entries": 1072502522,
-        "exits": 690940443,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Graham Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.867618",
-          "40.831509"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 451454286 / 332639269<br />Ratio: 1.36",
-        "entries": 451454286,
-        "exits": 332639269,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "St Lawrence Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.815925",
-          "40.608382"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 76858119 / 26406768<br />Ratio: 2.91",
-        "entries": 76858119,
-        "exits": 26406768,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Broad Channel"
+        "title": "Allerton Av"
       },
       "type": "Feature"
     },
@@ -1086,462 +60,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-73.954155",
-          "40.586896"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: B<br />Entries / Exits: 1508135737 / 1362331560<br />Ratio: 1.11",
-        "entries": 1508135737,
-        "exits": 1362331560,
-        "line": "B",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Sheepshead Bay"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.95085",
-          "40.662742"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 921955656 / 652681831<br />Ratio: 1.41",
-        "entries": 921955656,
-        "exits": 652681831,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Sterling St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.011862",
-          "40.707557"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 4<br />Entries / Exits: 19629052067 / 15355958498<br />Ratio: 1.28",
-        "entries": 19629052067,
-        "exits": 15355958498,
-        "line": "4",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Wall St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.872106",
-          "40.675377"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 62514381986 / 6423691734<br />Ratio: 9.73",
-        "entries": 62514381986,
-        "exits": 6423691734,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Euclid Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.893509",
-          "40.866978"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: B<br />Entries / Exits: 2094470537 / 1490865602<br />Ratio: 1.4",
-        "entries": 2094470537,
-        "exits": 1490865602,
-        "line": "B",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Kingsbridge Rd"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.907684",
-          "40.853453"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 4<br />Entries / Exits: 554865828 / 431335892<br />Ratio: 1.29",
-        "entries": 554865828,
-        "exits": 431335892,
-        "line": "4",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Burnside Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.993915",
-          "40.72028"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 470612078 / 500248317<br />Ratio: 0.94",
-        "entries": 470612078,
-        "exits": 500248317,
-        "line": "J",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Bowery"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.947408",
-          "40.703869"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 1144844936 / 579361181<br />Ratio: 1.98",
-        "entries": 1144844936,
-        "exits": 579361181,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Lorimer St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.005367",
-          "40.728251"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 1<br />Entries / Exits: 5963557333 / 2167450488<br />Ratio: 2.75",
-        "entries": 5963557333,
-        "exits": 2167450488,
-        "line": "1",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Houston St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.932942",
-          "40.668897"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 3<br />Entries / Exits: 1722757618 / 1294924667<br />Ratio: 1.33",
-        "entries": 1722757618,
-        "exits": 1294924667,
-        "line": "3",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Utica Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.013664",
-          "40.702068"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: R<br />Entries / Exits: 1324019210 / 1131125736<br />Ratio: 1.17",
-        "entries": 1324019210,
-        "exits": 1131125736,
-        "line": "R",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "South Ferry"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.905227",
-          "40.85041"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: B<br />Entries / Exits: 96945210147 / 486092694<br />Ratio: 199.44",
-        "entries": 96945210147,
-        "exits": 486092694,
-        "line": "B",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Tremont Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.896435",
-          "40.816104"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 484932129 / 499797931<br />Ratio: 0.97",
-        "entries": 484932129,
-        "exits": 499797931,
-        "line": "6",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Longwood Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.993086",
-          "40.697466"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 757395384 / 880802005<br />Ratio: 0.86",
-        "entries": 757395384,
-        "exits": 880802005,
-        "line": "2",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Clark St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.911946",
-          "40.67834"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 30637662108 / 2182938884<br />Ratio: 14.04",
-        "entries": 30637662108,
-        "exits": 2182938884,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Rockaway Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.000193",
-          "40.718803"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 113102986578 / 51199560362<br />Ratio: 2.21",
-        "entries": 113102986578,
-        "exits": 51199560362,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Canal St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.851222",
-          "40.834255"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 1107568647 / 688641320<br />Ratio: 1.61",
-        "entries": 1107568647,
-        "exits": 688641320,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Castle Hill Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.949575",
-          "40.650843"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 13632382356 / 5647252836<br />Ratio: 2.41",
-        "entries": 13632382356,
-        "exits": 5647252836,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Church Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.978172",
-          "40.636119"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: F<br />Entries / Exits: 362176287 / 304867006<br />Ratio: 1.19",
-        "entries": 362176287,
-        "exits": 304867006,
-        "line": "F",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Ditmas Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.94067",
-          "40.711926"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 3216424296 / 2587000307<br />Ratio: 1.24",
-        "entries": 3216424296,
-        "exits": 2587000307,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Grand St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.956872",
-          "40.717304"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 42165999047 / 61012189195<br />Ratio: 0.69",
-        "entries": 42165999047,
-        "exits": 61012189195,
-        "line": "L",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Bedford Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.916327",
-          "40.661453"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 3<br />Entries / Exits: 1086941626 / 765817982<br />Ratio: 1.42",
-        "entries": 1086941626,
-        "exits": 765817982,
-        "line": "3",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Saratoga Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.825798",
-          "40.685951"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 785127171 / 754637180<br />Ratio: 1.04",
-        "entries": 785127171,
-        "exits": 754637180,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Lefferts Blvd"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.957734",
-          "40.60867"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: B<br />Entries / Exits: 3788181858 / 3085305006<br />Ratio: 1.23",
-        "entries": 3788181858,
-        "exits": 3085305006,
-        "line": "B",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Kings Highway"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-73.97689",
           "40.68446"
         ],
@@ -1561,57 +79,19 @@
     {
       "geometry": {
         "coordinates": [
-          "-73.995048",
-          "40.680303"
+          "-73.993728",
+          "40.601875"
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "Line: F<br />Entries / Exits: 1640704301 / 986969326<br />Ratio: 1.66",
-        "entries": 1640704301,
-        "exits": 986969326,
-        "line": "F",
+        "description": "Line: D<br />Entries / Exits: 5470272273 / 1240761434<br />Ratio: 4.41",
+        "entries": 5470272273,
+        "exits": 1240761434,
+        "line": "D",
         "marker-color": "#32cd32",
         "marker-symbol": "rail-metro",
-        "title": "Carroll St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.950308",
-          "40.706092"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: G<br />Entries / Exits: 569414247 / 419678965<br />Ratio: 1.36",
-        "entries": 569414247,
-        "exits": 419678965,
-        "line": "G",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Broadway"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.006978",
-          "40.713282"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: R<br />Entries / Exits: 11180481798 / 2028112966<br />Ratio: 5.51",
-        "entries": 11180481798,
-        "exits": 2028112966,
-        "line": "R",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "City Hall"
+        "title": "Bay Parkway"
       },
       "type": "Feature"
     },
@@ -1637,19 +117,931 @@
     {
       "geometry": {
         "coordinates": [
-          "-73.93985",
-          "40.707739"
+          "-73.838591",
+          "40.878663"
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "Line: L<br />Entries / Exits: 190237340 / 209317640<br />Ratio: 0.91",
-        "entries": 190237340,
-        "exits": 209317640,
+        "description": "Line: 5<br />Entries / Exits: 524318630 / 46445742<br />Ratio: 11.29",
+        "entries": 524318630,
+        "exits": 46445742,
+        "line": "5",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Baychester Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.956872",
+          "40.717304"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 42165999047 / 61012189195<br />Ratio: 0.69",
+        "entries": 42165999047,
+        "exits": 61012189195,
         "line": "L",
         "marker-color": "#cd5c5c",
         "marker-symbol": "rail-metro",
-        "title": "Montrose Av"
+        "title": "Bedford Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.975098",
+          "40.680829"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 2009665817 / 1379873311<br />Ratio: 1.46",
+        "entries": 2009665817,
+        "exits": 1379873311,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Bergen St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.994659",
+          "40.725915"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 862437599 / 320489913<br />Ratio: 2.69",
+        "entries": 862437599,
+        "exits": 320489913,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Bleecker St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.993915",
+          "40.72028"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 470612078 / 500248317<br />Ratio: 0.94",
+        "entries": 470612078,
+        "exits": 500248317,
+        "line": "J",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Bowery"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.014065",
+          "40.704817"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 4<br />Entries / Exits: 44994834902 / 66520771234<br />Ratio: 0.68",
+        "entries": 44994834902,
+        "exits": 66520771234,
+        "line": "4",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Bowling Green"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.961376",
+          "40.577621"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 2983173845 / 2746890493<br />Ratio: 1.09",
+        "entries": 2983173845,
+        "exits": 2746890493,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Brighton Beach"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.815925",
+          "40.608382"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 76858119 / 26406768<br />Ratio: 2.91",
+        "entries": 76858119,
+        "exits": 26406768,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Broad Channel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.011056",
+          "40.706476"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 836799664 / 512022564<br />Ratio: 1.63",
+        "entries": 836799664,
+        "exits": 512022564,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Broad St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.950308",
+          "40.706092"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: G<br />Entries / Exits: 569414247 / 419678965<br />Ratio: 1.36",
+        "entries": 569414247,
+        "exits": 419678965,
+        "line": "G",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Broadway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.868457",
+          "40.848828"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 258621669 / 129901349<br />Ratio: 1.99",
+        "entries": 258621669,
+        "exits": 129901349,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Bronx Park East"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.91924",
+          "40.807566"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 784169577 / 889008714<br />Ratio: 0.88",
+        "entries": 784169577,
+        "exits": 889008714,
+        "line": "6",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Brook Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.867164",
+          "40.871356"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 280872883 / 114432575<br />Ratio: 2.45",
+        "entries": 280872883,
+        "exits": 114432575,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Burke Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.907684",
+          "40.853453"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 4<br />Entries / Exits: 554865828 / 431335892<br />Ratio: 1.29",
+        "entries": 554865828,
+        "exits": 431335892,
+        "line": "4",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Burnside Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.905249",
+          "40.682829"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 160488644 / 152449438<br />Ratio: 1.05",
+        "entries": 160488644,
+        "exits": 152449438,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Bushwick Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.000193",
+          "40.718803"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 113102986578 / 51199560362<br />Ratio: 2.21",
+        "entries": 113102986578,
+        "exits": 51199560362,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Canal St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.995048",
+          "40.680303"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 1640704301 / 986969326<br />Ratio: 1.66",
+        "entries": 1640704301,
+        "exits": 986969326,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Carroll St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.851222",
+          "40.834255"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 1107568647 / 688641320<br />Ratio: 1.61",
+        "entries": 1107568647,
+        "exits": 688641320,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Castle Hill Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.927397",
+          "40.697857"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 133972702 / 169701408<br />Ratio: 0.79",
+        "entries": 133972702,
+        "exits": 169701408,
+        "line": "M",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Central Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.008585",
+          "40.714111"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 142292323651 / 165671952678<br />Ratio: 0.86",
+        "entries": 142292323651,
+        "exits": 165671952678,
+        "line": "A",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Chambers St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.910456",
+          "40.682893"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 349157699 / 140625406<br />Ratio: 2.48",
+        "entries": 349157699,
+        "exits": 140625406,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Chauncey St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.002906",
+          "40.733422"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 80593310564 / 30957096235<br />Ratio: 2.6",
+        "entries": 80593310564,
+        "exits": 30957096235,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Christopher St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.949575",
+          "40.650843"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 13632382356 / 5647252836<br />Ratio: 2.41",
+        "entries": 13632382356,
+        "exits": 5647252836,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Church Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.006978",
+          "40.713282"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 11180481798 / 2028112966<br />Ratio: 5.51",
+        "entries": 11180481798,
+        "exits": 2028112966,
+        "line": "R",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "City Hall"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.993086",
+          "40.697466"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 757395384 / 880802005<br />Ratio: 0.86",
+        "entries": 757395384,
+        "exits": 880802005,
+        "line": "2",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Clark St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.96007",
+          "40.688873"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: G<br />Entries / Exits: 534106642 / 522844945<br />Ratio: 1.02",
+        "entries": 534106642,
+        "exits": 522844945,
+        "line": "G",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Classon Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.884639",
+          "40.679947"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 230086259 / 226372252<br />Ratio: 1.02",
+        "entries": 230086259,
+        "exits": 226372252,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Cleveland St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.011029",
+          "40.710668"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 124630329519 / 43887518281<br />Ratio: 2.84",
+        "entries": 124630329519,
+        "exits": 43887518281,
+        "line": "R",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Cortlandt St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.873785",
+          "40.683194"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 813818681 / 888566632<br />Ratio: 0.92",
+        "entries": 813818681,
+        "exits": 888566632,
+        "line": "J",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Crescent St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.914042",
+          "40.805368"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 352061203 / 346609788<br />Ratio: 1.02",
+        "entries": 352061203,
+        "exits": 346609788,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Cypress Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.87255",
+          "40.689941"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 214876196 / 125370461<br />Ratio: 1.71",
+        "entries": 214876196,
+        "exits": 125370461,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Cypress Hills"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.918425",
+          "40.703811"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 2972395980 / 1887965537<br />Ratio: 1.57",
+        "entries": 2972395980,
+        "exits": 1887965537,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "DeKalb Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.988114",
+          "40.718611"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 1487094973 / 1182219900<br />Ratio: 1.26",
+        "entries": 1487094973,
+        "exits": 1182219900,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Delancey St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.978172",
+          "40.636119"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 362176287 / 304867006<br />Ratio: 1.19",
+        "entries": 362176287,
+        "exits": 304867006,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Ditmas Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.925536",
+          "40.860531"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 254928555 / 319189445<br />Ratio: 0.8",
+        "entries": 254928555,
+        "exits": 319189445,
+        "line": "1",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Dyckman St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.990173",
+          "40.713715"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 5684530490 / 1494568108<br />Ratio: 3.8",
+        "entries": 5684530490,
+        "exits": 1494568108,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "East Broadway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.879159",
+          "40.828584"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 6981326349 / 528099062<br />Ratio: 13.22",
+        "entries": 6981326349,
+        "exits": 528099062,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Elder Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.882017",
+          "40.742454"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 31584335150 / 74266000199<br />Ratio: 0.43",
+        "entries": 31584335150,
+        "exits": 74266000199,
+        "line": "M",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Elmhurst Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.987437",
+          "40.718315"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 78454677839 / 50676099561<br />Ratio: 1.55",
+        "entries": 78454677839,
+        "exits": 50676099561,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Essex St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.872106",
+          "40.675377"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 62514381986 / 6423691734<br />Ratio: 9.73",
+        "entries": 62514381986,
+        "exits": 6423691734,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Euclid Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.950234",
+          "40.700377"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: G<br />Entries / Exits: 7578036899 / 1516180216<br />Ratio: 5.0",
+        "entries": 7578036899,
+        "exits": 1516180216,
+        "line": "G",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Flushing Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.903077",
+          "40.704423"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 433523972 / 417089321<br />Ratio: 1.04",
+        "entries": 433523972,
+        "exits": 417089321,
+        "line": "M",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Forest Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.956848",
+          "40.68138"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 71902835902 / 123216296976<br />Ratio: 0.58",
+        "entries": 71902835902,
+        "exits": 123216296976,
+        "line": "A",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Franklin Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.006886",
+          "40.719318"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 864088956 / 550121625<br />Ratio: 1.57",
+        "entries": 864088956,
+        "exits": 550121625,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Franklin St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.891865",
+          "40.829993"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 7550015322 / 1308681840<br />Ratio: 5.77",
+        "entries": 7550015322,
+        "exits": 1308681840,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Freeman St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.009509",
+          "40.710368"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 252729149949 / 105651198795<br />Ratio: 2.39",
+        "entries": 252729149949,
+        "exits": 105651198795,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Fulton St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.92227",
+          "40.68963"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 371139165 / 228170372<br />Ratio: 1.63",
+        "entries": 371139165,
+        "exits": 228170372,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Gates Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.944053",
+          "40.714565"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 1072502522 / 690940443<br />Ratio: 1.55",
+        "entries": 1072502522,
+        "exits": 690940443,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Graham Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.94067",
+          "40.711926"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 3216424296 / 2587000307<br />Ratio: 1.24",
+        "entries": 3216424296,
+        "exits": 2587000307,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Grand St"
       },
       "type": "Feature"
     },
@@ -1675,6 +1067,595 @@
     {
       "geometry": {
         "coordinates": [
+          "-73.954449",
+          "40.731352"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: G<br />Entries / Exits: 496741014 / 299414024<br />Ratio: 1.66",
+        "entries": 496741014,
+        "exits": 299414024,
+        "line": "G",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Greenpoint Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.904084",
+          "40.695602"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 4657328778 / 2287095391<br />Ratio: 2.04",
+        "entries": 4657328778,
+        "exits": 2287095391,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Halsey St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.953431",
+          "40.70687"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 340822834 / 124890983<br />Ratio: 2.73",
+        "entries": 340822834,
+        "exits": 124890983,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Hewes St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.990531",
+          "40.699337"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 1205076830 / 1395652979<br />Ratio: 0.86",
+        "entries": 1205076830,
+        "exits": 1395652979,
+        "line": "A",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "High St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.005367",
+          "40.728251"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 5963557333 / 2167450488<br />Ratio: 2.75",
+        "entries": 5963557333,
+        "exits": 2167450488,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Houston St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.985065",
+          "40.690545"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 823258283 / 994153911<br />Ratio: 0.83",
+        "entries": 823258283,
+        "exits": 994153911,
+        "line": "2",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Hoyt St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.890549",
+          "40.820948"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 1068558347 / 615692023<br />Ratio: 1.74",
+        "entries": 1068558347,
+        "exits": 615692023,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Hunts Point Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.907807",
+          "40.81649"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 536298401 / 123827800<br />Ratio: 4.33",
+        "entries": 536298401,
+        "exits": 123827800,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Jackson Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.922913",
+          "40.706607"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 722446312 / 414916906<br />Ratio: 1.74",
+        "entries": 722446312,
+        "exits": 414916906,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Jefferson St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.869527",
+          "40.749145"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 7<br />Entries / Exits: 1693734165 / 2178698838<br />Ratio: 0.78",
+        "entries": 1693734165,
+        "exits": 2178698838,
+        "line": "7",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Junction Blvd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.902447",
+          "40.663515"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 487522943 / 322517436<br />Ratio: 1.51",
+        "entries": 487522943,
+        "exits": 322517436,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Junius St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.957734",
+          "40.60867"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 3788181858 / 3085305006<br />Ratio: 1.23",
+        "entries": 3788181858,
+        "exits": 3085305006,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Kings Highway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.893509",
+          "40.866978"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 2094470537 / 1490865602<br />Ratio: 1.4",
+        "entries": 2094470537,
+        "exits": 1490865602,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Kingsbridge Rd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.942161",
+          "40.669399"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 1156600668 / 993126527<br />Ratio: 1.16",
+        "entries": 1156600668,
+        "exits": 993126527,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Kingston Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.940858",
+          "40.679921"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 657168385 / 733640054<br />Ratio: 0.9",
+        "entries": 657168385,
+        "exits": 733640054,
+        "line": "A",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Kingston-Throop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.973946",
+          "40.686113"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: C<br />Entries / Exits: 707830220 / 374611192<br />Ratio: 1.89",
+        "entries": 707830220,
+        "exits": 374611192,
+        "line": "C",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Lafayette Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.825798",
+          "40.685951"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 785127171 / 754637180<br />Ratio: 1.04",
+        "entries": 785127171,
+        "exits": 754637180,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Lefferts Blvd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.967258",
+          "40.76266"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: N<br />Entries / Exits: 75040441357 / 3835785483<br />Ratio: 19.56",
+        "entries": 75040441357,
+        "exits": 3835785483,
+        "line": "N",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Lexington Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.896548",
+          "40.674542"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 411667237 / 240347121<br />Ratio: 1.71",
+        "entries": 411667237,
+        "exits": 240347121,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Liberty Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.900571",
+          "40.664038"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 441864995 / 348693858<br />Ratio: 1.27",
+        "entries": 441864995,
+        "exits": 348693858,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Livonia Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.896435",
+          "40.816104"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 484932129 / 499797931<br />Ratio: 0.97",
+        "entries": 484932129,
+        "exits": 499797931,
+        "line": "6",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Longwood Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.947408",
+          "40.703869"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 1144844936 / 579361181<br />Ratio: 1.98",
+        "entries": 1144844936,
+        "exits": 579361181,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Lorimer St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.957757",
+          "40.708359"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 1980570049 / 20336288413<br />Ratio: 0.1",
+        "entries": 1980570049,
+        "exits": 20336288413,
+        "line": "J",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Marcy Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.93985",
+          "40.707739"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 190237340 / 209317640<br />Ratio: 0.91",
+        "entries": 190237340,
+        "exits": 209317640,
+        "line": "L",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Montrose Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.933147",
+          "40.706152"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 886721343 / 511993961<br />Ratio: 1.73",
+        "entries": 886721343,
+        "exits": 511993961,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Morgan Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.860495",
+          "40.854364"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 5<br />Entries / Exits: 250091730 / 133429299<br />Ratio: 1.87",
+        "entries": 250091730,
+        "exits": 133429299,
+        "line": "5",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Morris Park"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.884655",
+          "40.87975"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 4<br />Entries / Exits: 1110387494 / 545874438<br />Ratio: 2.03",
+        "entries": 1110387494,
+        "exits": 545874438,
+        "line": "4",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Mosholu Parkway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.914685",
+          "40.844434"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 4<br />Entries / Exits: 493265970 / 361812539<br />Ratio: 1.36",
+        "entries": 493265970,
+        "exits": 361812539,
+        "line": "4",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Mt Eden Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.911586",
+          "40.699814"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 3165521009 / 2469004664<br />Ratio: 1.28",
+        "entries": 3165521009,
+        "exits": 2469004664,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Myrtle Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.980492",
+          "40.688246"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 999138494 / 986762926<br />Ratio: 1.01",
+        "entries": 999138494,
+        "exits": 986762926,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Nevins St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.884079",
+          "40.666235"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 1661379380 / 1421865180<br />Ratio: 1.17",
+        "entries": 1661379380,
+        "exits": 1421865180,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "New Lots Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-73.996353",
           "40.624842"
         ],
@@ -1694,19 +1675,760 @@
     {
       "geometry": {
         "coordinates": [
-          "-73.961376",
-          "40.577621"
+          "-73.948411",
+          "40.639967"
         ],
         "type": "Point"
       },
       "properties": {
-        "description": "Line: B<br />Entries / Exits: 2983173845 / 2746890493<br />Ratio: 1.09",
-        "entries": 2983173845,
-        "exits": 2746890493,
+        "description": "Line: 2<br />Entries / Exits: 1503020709 / 731730385<br />Ratio: 2.05",
+        "entries": 1503020709,
+        "exits": 731730385,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Newkirk Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.906006",
+          "40.752885"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 931105389 / 886555836<br />Ratio: 1.05",
+        "entries": 931105389,
+        "exits": 886555836,
+        "line": "M",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Northern Blvd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.880039",
+          "40.68141"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 346265907 / 390219280<br />Ratio: 0.89",
+        "entries": 346265907,
+        "exits": 390219280,
+        "line": "J",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Norwood Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.950426",
+          "40.680438"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 2980609074 / 2890068440<br />Ratio: 1.03",
+        "entries": 2980609074,
+        "exits": 2890068440,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Nostrand Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.968501",
+          "40.576312"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: Q<br />Entries / Exits: 5350538809 / 414669603<br />Ratio: 12.9",
+        "entries": 5350538809,
+        "exits": 414669603,
+        "line": "Q",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Ocean Parkway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.008811",
+          "40.713051"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 4087375543 / 1411027150<br />Ratio: 2.9",
+        "entries": 4087375543,
+        "exits": 1411027150,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Park Place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.961495",
+          "40.655292"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 1354020248 / 1234676415<br />Ratio: 1.1",
+        "entries": 1354020248,
+        "exits": 1234676415,
         "line": "B",
         "marker-color": "#32cd32",
         "marker-symbol": "rail-metro",
-        "title": "Brighton Beach"
+        "title": "Parkside Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.803326",
+          "40.707564"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 879117480 / 902955537<br />Ratio: 0.97",
+        "entries": 879117480,
+        "exits": 902955537,
+        "line": "F",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Parsons Blvd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.828121",
+          "40.852462"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 7645355312 / 1009831935<br />Ratio: 7.57",
+        "entries": 7645355312,
+        "exits": 1009831935,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Pelham Bay Park"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.855359",
+          "40.858985"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 5<br />Entries / Exits: 4876164814 / 429099254<br />Ratio: 11.36",
+        "entries": 4876164814,
+        "exits": 429099254,
+        "line": "5",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Pelham Parkway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.950683",
+          "40.667883"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 457080102 / 518594667<br />Ratio: 0.88",
+        "entries": 457080102,
+        "exits": 518594667,
+        "line": "2",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "President St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.90177",
+          "40.819585"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 2126153600 / 1324920760<br />Ratio: 1.6",
+        "entries": 2126153600,
+        "exits": 1324920760,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Prospect Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.962246",
+          "40.661614"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 1332726643 / 1245555499<br />Ratio: 1.07",
+        "entries": 1332726643,
+        "exits": 1245555499,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Prospect Park"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.937243",
+          "40.748973"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: E<br />Entries / Exits: 3605722777 / 1846647429<br />Ratio: 1.95",
+        "entries": 3605722777,
+        "exits": 1846647429,
+        "line": "E",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Queens Plaza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.920786",
+          "40.678822"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 813857246 / 669098305<br />Ratio: 1.22",
+        "entries": 813857246,
+        "exits": 669098305,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Ralph Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.013783",
+          "40.707513"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 6408347631 / 2864383526<br />Ratio: 2.24",
+        "entries": 6408347631,
+        "exits": 2864383526,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Rector St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.911946",
+          "40.67834"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 30637662108 / 2182938884<br />Ratio: 14.04",
+        "entries": 30637662108,
+        "exits": 2182938884,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Rockaway Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.843853",
+          "40.680429"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 1021715123 / 702428239<br />Ratio: 1.45",
+        "entries": 1021715123,
+        "exits": 702428239,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Rockaway Blvd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.916327",
+          "40.661453"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 1086941626 / 765817982<br />Ratio: 1.42",
+        "entries": 1086941626,
+        "exits": 765817982,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Saratoga Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.90774",
+          "40.702762"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 182238528 / 206899125<br />Ratio: 0.88",
+        "entries": 182238528,
+        "exits": 206899125,
+        "line": "M",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Seneca Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.954155",
+          "40.586896"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 1508135737 / 1362331560<br />Ratio: 1.11",
+        "entries": 1508135737,
+        "exits": 1362331560,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Sheepshead Bay"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.88075",
+          "40.67413"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 679597499 / 595389468<br />Ratio: 1.14",
+        "entries": 679597499,
+        "exits": 595389468,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Shepherd Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.893064",
+          "40.824073"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 1448566786 / 412291308<br />Ratio: 3.51",
+        "entries": 1448566786,
+        "exits": 412291308,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Simpson St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.013664",
+          "40.702068"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 1324019210 / 1131125736<br />Ratio: 1.17",
+        "entries": 1324019210,
+        "exits": 1131125736,
+        "line": "R",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "South Ferry"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.997141",
+          "40.722301"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 15421960833 / 5038429506<br />Ratio: 3.06",
+        "entries": 15421960833,
+        "exits": 5038429506,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Spring St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.867618",
+          "40.831509"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 451454286 / 332639269<br />Ratio: 1.36",
+        "entries": 451454286,
+        "exits": 332639269,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "St Lawrence Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.92074",
+          "40.756879"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 1838697301 / 1346514700<br />Ratio: 1.37",
+        "entries": 1838697301,
+        "exits": 1346514700,
+        "line": "M",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Steinway St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.95085",
+          "40.662742"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 921955656 / 652681831<br />Ratio: 1.41",
+        "entries": 921955656,
+        "exits": 652681831,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Sterling St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.981233",
+          "40.577422"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 1618808436 / 1511097232<br />Ratio: 1.07",
+        "entries": 1618808436,
+        "exits": 1511097232,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Stillwell Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.810708",
+          "40.70546"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 6540590686 / 3229022530<br />Ratio: 2.03",
+        "entries": 6540590686,
+        "exits": 3229022530,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Sutphin Blvd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.92261",
+          "40.664717"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 1458125552 / 1191070564<br />Ratio: 1.22",
+        "entries": 1458125552,
+        "exits": 1191070564,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Sutter Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.905227",
+          "40.85041"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 96945210147 / 486092694<br />Ratio: 199.44",
+        "entries": 96945210147,
+        "exits": 486092694,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Tremont Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.98311",
+          "40.677316"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 824830546 / 1135333922<br />Ratio: 0.73",
+        "entries": 824830546,
+        "exits": 1135333922,
+        "line": "R",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Union St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.932942",
+          "40.668897"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 1722757618 / 1294924667<br />Ratio: 1.33",
+        "entries": 1722757618,
+        "exits": 1294924667,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Utica Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.889395",
+          "40.665449"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 1722955801 / 1376218074<br />Ratio: 1.25",
+        "entries": 1722955801,
+        "exits": 1376218074,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Van Siclen Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.011862",
+          "40.707557"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 4<br />Entries / Exits: 19629052067 / 15355958498<br />Ratio: 1.28",
+        "entries": 19629052067,
+        "exits": 15355958498,
+        "line": "4",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Wall St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.012994",
+          "40.703087"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 5352108334 / 336564557<br />Ratio: 15.9",
+        "entries": 5352108334,
+        "exits": 336564557,
+        "line": "R",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Whitehall St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.886283",
+          "40.826525"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 4319145324 / 151994712<br />Ratio: 28.42",
+        "entries": 4319145324,
+        "exits": 151994712,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Whitlock Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.904046",
+          "40.688764"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 542627239 / 485800076<br />Ratio: 1.12",
+        "entries": 542627239,
+        "exits": 485800076,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Wilson Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.9502",
+          "40.656652"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 1195484231 / 212099765<br />Ratio: 5.64",
+        "entries": 1195484231,
+        "exits": 212099765,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Winthrop St"
       },
       "type": "Feature"
     },
@@ -1745,728 +2467,6 @@
         "marker-color": "#32cd32",
         "marker-symbol": "rail-metro",
         "title": "York St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.954449",
-          "40.731352"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: G<br />Entries / Exits: 496741014 / 299414024<br />Ratio: 1.66",
-        "entries": 496741014,
-        "exits": 299414024,
-        "line": "G",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Greenpoint Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.873785",
-          "40.683194"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 813818681 / 888566632<br />Ratio: 0.92",
-        "entries": 813818681,
-        "exits": 888566632,
-        "line": "J",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Crescent St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.9502",
-          "40.656652"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 1195484231 / 212099765<br />Ratio: 5.64",
-        "entries": 1195484231,
-        "exits": 212099765,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Winthrop St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.008811",
-          "40.713051"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 4087375543 / 1411027150<br />Ratio: 2.9",
-        "entries": 4087375543,
-        "exits": 1411027150,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Park Place"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.950426",
-          "40.680438"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 2980609074 / 2890068440<br />Ratio: 1.03",
-        "entries": 2980609074,
-        "exits": 2890068440,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Nostrand Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.880039",
-          "40.68141"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 346265907 / 390219280<br />Ratio: 0.89",
-        "entries": 346265907,
-        "exits": 390219280,
-        "line": "J",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Norwood Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.90774",
-          "40.702762"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: M<br />Entries / Exits: 182238528 / 206899125<br />Ratio: 0.88",
-        "entries": 182238528,
-        "exits": 206899125,
-        "line": "M",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Seneca Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.980492",
-          "40.688246"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 999138494 / 986762926<br />Ratio: 1.01",
-        "entries": 999138494,
-        "exits": 986762926,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Nevins St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.920786",
-          "40.678822"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 813857246 / 669098305<br />Ratio: 1.22",
-        "entries": 813857246,
-        "exits": 669098305,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Ralph Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.904084",
-          "40.695602"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 4657328778 / 2287095391<br />Ratio: 2.04",
-        "entries": 4657328778,
-        "exits": 2287095391,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Halsey St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.900571",
-          "40.664038"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 441864995 / 348693858<br />Ratio: 1.27",
-        "entries": 441864995,
-        "exits": 348693858,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Livonia Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.994659",
-          "40.725915"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: B<br />Entries / Exits: 862437599 / 320489913<br />Ratio: 2.69",
-        "entries": 862437599,
-        "exits": 320489913,
-        "line": "B",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Bleecker St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.953431",
-          "40.70687"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 340822834 / 124890983<br />Ratio: 2.73",
-        "entries": 340822834,
-        "exits": 124890983,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Hewes St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.92227",
-          "40.68963"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 371139165 / 228170372<br />Ratio: 1.63",
-        "entries": 371139165,
-        "exits": 228170372,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Gates Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.968501",
-          "40.576312"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: Q<br />Entries / Exits: 5350538809 / 414669603<br />Ratio: 12.9",
-        "entries": 5350538809,
-        "exits": 414669603,
-        "line": "Q",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Ocean Parkway"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.898654",
-          "40.676992"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 313234729 / 343257797<br />Ratio: 0.91",
-        "entries": 313234729,
-        "exits": 343257797,
-        "line": "J",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Alabama Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.950234",
-          "40.700377"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: G<br />Entries / Exits: 7578036899 / 1516180216<br />Ratio: 5.0",
-        "entries": 7578036899,
-        "exits": 1516180216,
-        "line": "G",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Flushing Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.843853",
-          "40.680429"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 1021715123 / 702428239<br />Ratio: 1.45",
-        "entries": 1021715123,
-        "exits": 702428239,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Rockaway Blvd"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.914685",
-          "40.844434"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 4<br />Entries / Exits: 493265970 / 361812539<br />Ratio: 1.36",
-        "entries": 493265970,
-        "exits": 361812539,
-        "line": "4",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Mt Eden Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.869527",
-          "40.749145"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 7<br />Entries / Exits: 1693734165 / 2178698838<br />Ratio: 0.78",
-        "entries": 1693734165,
-        "exits": 2178698838,
-        "line": "7",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Junction Blvd"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.867352",
-          "40.865462"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 293932560 / 119133472<br />Ratio: 2.47",
-        "entries": 293932560,
-        "exits": 119133472,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Allerton Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.882017",
-          "40.742454"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: M<br />Entries / Exits: 31584335150 / 74266000199<br />Ratio: 0.43",
-        "entries": 31584335150,
-        "exits": 74266000199,
-        "line": "M",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Elmhurst Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.884655",
-          "40.87975"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 4<br />Entries / Exits: 1110387494 / 545874438<br />Ratio: 2.03",
-        "entries": 1110387494,
-        "exits": 545874438,
-        "line": "4",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Mosholu Parkway"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.948411",
-          "40.639967"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 1503020709 / 731730385<br />Ratio: 2.05",
-        "entries": 1503020709,
-        "exits": 731730385,
-        "line": "2",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Newkirk Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.88075",
-          "40.67413"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 679597499 / 595389468<br />Ratio: 1.14",
-        "entries": 679597499,
-        "exits": 595389468,
-        "line": "A",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Shepherd Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.012994",
-          "40.703087"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: R<br />Entries / Exits: 5352108334 / 336564557<br />Ratio: 15.9",
-        "entries": 5352108334,
-        "exits": 336564557,
-        "line": "R",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Whitehall St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.918425",
-          "40.703811"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: L<br />Entries / Exits: 2972395980 / 1887965537<br />Ratio: 1.57",
-        "entries": 2972395980,
-        "exits": 1887965537,
-        "line": "L",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "DeKalb Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.967258",
-          "40.76266"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: N<br />Entries / Exits: 75040441357 / 3835785483<br />Ratio: 19.56",
-        "entries": 75040441357,
-        "exits": 3835785483,
-        "line": "N",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Lexington Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.925536",
-          "40.860531"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 1<br />Entries / Exits: 254928555 / 319189445<br />Ratio: 0.8",
-        "entries": 254928555,
-        "exits": 319189445,
-        "line": "1",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Dyckman St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-74.013783",
-          "40.707513"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 1<br />Entries / Exits: 6408347631 / 2864383526<br />Ratio: 2.24",
-        "entries": 6408347631,
-        "exits": 2864383526,
-        "line": "1",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Rector St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.855359",
-          "40.858985"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 5<br />Entries / Exits: 4876164814 / 429099254<br />Ratio: 11.36",
-        "entries": 4876164814,
-        "exits": 429099254,
-        "line": "5",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Pelham Parkway"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.914042",
-          "40.805368"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 352061203 / 346609788<br />Ratio: 1.02",
-        "entries": 352061203,
-        "exits": 346609788,
-        "line": "6",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Cypress Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.990173",
-          "40.713715"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: F<br />Entries / Exits: 5684530490 / 1494568108<br />Ratio: 3.8",
-        "entries": 5684530490,
-        "exits": 1494568108,
-        "line": "F",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "East Broadway"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.884639",
-          "40.679947"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: J<br />Entries / Exits: 230086259 / 226372252<br />Ratio: 1.02",
-        "entries": 230086259,
-        "exits": 226372252,
-        "line": "J",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Cleveland St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.942161",
-          "40.669399"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 3<br />Entries / Exits: 1156600668 / 993126527<br />Ratio: 1.16",
-        "entries": 1156600668,
-        "exits": 993126527,
-        "line": "3",
-        "marker-color": "#32cd32",
-        "marker-symbol": "rail-metro",
-        "title": "Kingston Av"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.950683",
-          "40.667883"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 2<br />Entries / Exits: 457080102 / 518594667<br />Ratio: 0.88",
-        "entries": 457080102,
-        "exits": 518594667,
-        "line": "2",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "President St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.990531",
-          "40.699337"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: A<br />Entries / Exits: 1205076830 / 1395652979<br />Ratio: 0.86",
-        "entries": 1205076830,
-        "exits": 1395652979,
-        "line": "A",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "High St"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-73.91924",
-          "40.807566"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "description": "Line: 6<br />Entries / Exits: 784169577 / 889008714<br />Ratio: 0.88",
-        "entries": 784169577,
-        "exits": 889008714,
-        "line": "6",
-        "marker-color": "#cd5c5c",
-        "marker-symbol": "rail-metro",
-        "title": "Brook Av"
       },
       "type": "Feature"
     }

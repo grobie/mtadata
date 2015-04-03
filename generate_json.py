@@ -79,7 +79,8 @@ for key in stations:
 			'marker-color': station.color(),
 		},
 	})
+features = sorted(features, key=lambda k: k['properties']['title'])
 geojson = {'type': 'FeatureCollection', 'features': features }
 
 print('Dumping .geojson for', len(features), 'stations', file=sys.stderr)
-print(json.dumps(geojson, sort_keys=True))
+print(json.dumps(geojson, sort_keys=True, indent=2, separators=(',', ': ')))
