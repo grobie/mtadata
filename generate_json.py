@@ -1,5 +1,6 @@
 import csv
 import json
+import re
 import sys
 
 class Station:
@@ -20,11 +21,22 @@ class Station:
 	def ratio(self):
 		return float(self.entries) / float(self.exits)
 
+def ord(n):
+	return str(n)+("th" if 4<=n%100<=20 else {1:"st",2:"nd",3:"rd"}.get(n%10, "th"))
+
 def normalize(name):
-	s = name
-	if s.endswith('Av'):
-		s = s + 'e'
-	return s.upper()
+	s = name.upper()
+
+	if s.endswith('AV'):
+		s = s + 'E'
+
+	s = re.sub('([0-9]+) (ST|AVE)', lambda m: "{0} {1}".format(
+		ord(int(m.group(1))).upper(), m.group(2)
+	), s)
+
+	return s
+
+assert '121ST ST' == normalize('121 ST')
 
 stations = {}
 
@@ -35,8 +47,9 @@ with open('data/station-entrances.csv', newline='') as station_entrances:
 		line = row['Route_1']
 		lat  = row['Station_Latitude']
 		long = row['Station_Longitude']
+		key  = normalize(name)
 
-		stations[normalize(name)] = Station(name, line, lat, long)
+		stations[key] = Station(name, line, lat, long)
 
 with open('data/turnstile.csv', newline='') as turnstile_csv:
 	reader = csv.DictReader(turnstile_csv)
@@ -82,5 +95,5 @@ for key in stations:
 features = sorted(features, key=lambda k: k['properties']['title'])
 geojson = {'type': 'FeatureCollection', 'features': features }
 
-print('Dumping .geojson for', len(features), 'stations', file=sys.stderr)
+print('Dumping .geojson for', len(features), 'of', len(stations), 'stations', file=sys.stderr)
 print(json.dumps(geojson, sort_keys=True, indent=2, separators=(',', ': ')))

@@ -3,6 +3,1260 @@
     {
       "geometry": {
         "coordinates": [
+          "-73.968379",
+          "40.799446"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 4948782824 / 3871627877<br />Ratio: 1.28",
+        "entries": 4948782824,
+        "exits": 3871627877,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "103rd St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.94425",
+          "40.79502"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 1278205412 / 1218669541<br />Ratio: 1.05",
+        "entries": 1278205412,
+        "exits": 1218669541,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "110th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.855334",
+          "40.75173"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 7<br />Entries / Exits: 2125659430 / 1462385743<br />Ratio: 1.45",
+        "entries": 2125659430,
+        "exits": 1462385743,
+        "line": "7",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "111th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.949625",
+          "40.802098"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 4004361632 / 3032236309<br />Ratio: 1.32",
+        "entries": 4004361632,
+        "exits": 3032236309,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "116th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.828294",
+          "40.700492"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: J<br />Entries / Exits: 292494823 / 251311248<br />Ratio: 1.16",
+        "entries": 292494823,
+        "exits": 251311248,
+        "line": "J",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "121st St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.945495",
+          "40.807754"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 253645628701 / 132207878218<br />Ratio: 1.92",
+        "entries": 253645628701,
+        "exits": 132207878218,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "125th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.94077",
+          "40.814229"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 6599608876 / 1263937363<br />Ratio: 5.22",
+        "entries": 6599608876,
+        "exits": 1263937363,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "135th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.926138",
+          "40.810476"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 659573216 / 576641055<br />Ratio: 1.14",
+        "entries": 659573216,
+        "exits": 576641055,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "138th St-3rd Ave"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.936245",
+          "40.820421"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 60776014792 / 86764707717<br />Ratio: 0.7",
+        "entries": 60776014792,
+        "exits": 86764707717,
+        "line": "3",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "145th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.917757",
+          "40.816109"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 2046122433 / 1416972125<br />Ratio: 1.44",
+        "entries": 2046122433,
+        "exits": 1416972125,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "149th St-3rd Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.000201",
+          "40.737826"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 68536297967 / 65856676122<br />Ratio: 1.04",
+        "entries": 68536297967,
+        "exits": 65856676122,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "14th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.938209",
+          "40.830135"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 1216002219 / 940158331<br />Ratio: 1.29",
+        "entries": 1216002219,
+        "exits": 940158331,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "155th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.94489",
+          "40.834041"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 1200690183 / 802262326<br />Ratio: 1.5",
+        "entries": 1200690183,
+        "exits": 802262326,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "157th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.918432",
+          "40.833769"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 2273858839 / 1402592583<br />Ratio: 1.62",
+        "entries": 2273858839,
+        "exits": 1402592583,
+        "line": "B",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "167th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.793604",
+          "40.71047"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 892954348 / 982845743<br />Ratio: 0.91",
+        "entries": 892954348,
+        "exits": 982845743,
+        "line": "F",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "169th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.9134",
+          "40.839306"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 54811879292 / 103721058449<br />Ratio: 0.53",
+        "entries": 54811879292,
+        "exits": 103721058449,
+        "line": "B",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "170th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.887734",
+          "40.837288"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 1055093230 / 13048208266<br />Ratio: 0.08",
+        "entries": 1055093230,
+        "exits": 13048208266,
+        "line": "2",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "174th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.939704",
+          "40.847391"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 6275744786 / 787501086<br />Ratio: 7.97",
+        "entries": 6275744786,
+        "exits": 787501086,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "175th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.911794",
+          "40.84848"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 4<br />Entries / Exits: 420890349 / 299794954<br />Ratio: 1.4",
+        "entries": 420890349,
+        "exits": 299794954,
+        "line": "4",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "176th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.937969",
+          "40.851695"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 3108790616 / 2945590201<br />Ratio: 1.06",
+        "entries": 3108790616,
+        "exits": 2945590201,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "181st St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.903879",
+          "40.858407"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 4<br />Entries / Exits: 71540104807 / 74667856449<br />Ratio: 0.96",
+        "entries": 71540104807,
+        "exits": 74667856449,
+        "line": "4",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "183rd St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.976971",
+          "40.629755"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 2365892977 / 2191129153<br />Ratio: 1.08",
+        "entries": 2365892977,
+        "exits": 2191129153,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "18th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.997871",
+          "40.74104"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 830613763 / 484304147<br />Ratio: 1.72",
+        "entries": 830613763,
+        "exits": 484304147,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "18th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.93418",
+          "40.859022"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 695328870 / 397700122<br />Ratio: 1.75",
+        "entries": 695328870,
+        "exits": 397700122,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "190th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.929412",
+          "40.855225"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 686282478 / 676461120<br />Ratio: 1.01",
+        "entries": 686282478,
+        "exits": 676461120,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "191st St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.981628",
+          "40.730953"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 34756165550 / 17520411733<br />Ratio: 1.98",
+        "entries": 34756165550,
+        "exits": 17520411733,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "1st Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.918819",
+          "40.864614"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 6224317134 / 237242448<br />Ratio: 26.24",
+        "entries": 6224317134,
+        "exits": 237242448,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "207th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.985026",
+          "40.61741"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: N<br />Entries / Exits: 1140452852 / 1077384282<br />Ratio: 1.06",
+        "entries": 1140452852,
+        "exits": 1077384282,
+        "line": "N",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "20th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.915279",
+          "40.869444"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 340311681 / 6973531864<br />Ratio: 0.05",
+        "entries": 340311681,
+        "exits": 6973531864,
+        "line": "1",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "215th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.862633",
+          "40.883895"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 363456158 / 230327309<br />Ratio: 1.58",
+        "entries": 363456158,
+        "exits": 230327309,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "219th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.949724",
+          "40.744065"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: G<br />Entries / Exits: 1260295947 / 1188573861<br />Ratio: 1.06",
+        "entries": 1260295947,
+        "exits": 1188573861,
+        "line": "G",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "21st St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.860341",
+          "40.888022"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 540763341 / 305110990<br />Ratio: 1.77",
+        "entries": 540763341,
+        "exits": 305110990,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "225th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.904834",
+          "40.878856"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 6411156336 / 72202425<br />Ratio: 88.79",
+        "entries": 6411156336,
+        "exits": 72202425,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "231st St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.857473",
+          "40.893193"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 2<br />Entries / Exits: 438361334 / 170739478<br />Ratio: 2.57",
+        "entries": 438361334,
+        "exits": 170739478,
+        "line": "2",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "233rd St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.90087",
+          "40.884667"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 752482292 / 35245751<br />Ratio: 21.35",
+        "entries": 752482292,
+        "exits": 35245751,
+        "line": "1",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "238th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.986599",
+          "40.739864"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 145415316396 / 118479520667<br />Ratio: 1.23",
+        "entries": 145415316396,
+        "exits": 118479520667,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "23rd St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.986829",
+          "40.597704"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 139642392 / 48174200<br />Ratio: 2.9",
+        "entries": 139642392,
+        "exits": 48174200,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "25th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.998091",
+          "40.660397"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 636501464 / 722300035<br />Ratio: 0.88",
+        "entries": 636501464,
+        "exits": 722300035,
+        "line": "R",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "25th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.993365",
+          "40.747215"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 61521726641 / 95290330298<br />Ratio: 0.65",
+        "entries": 61521726641,
+        "exits": 95290330298,
+        "line": "1",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "28th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.989938",
+          "40.723402"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 1903729591 / 2307521051<br />Ratio: 0.83",
+        "entries": 1903729591,
+        "exits": 2307521051,
+        "line": "F",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "2nd Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.982076",
+          "40.746081"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 9238472805 / 5467751190<br />Ratio: 1.69",
+        "entries": 9238472805,
+        "exits": 5467751190,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "33rd St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.928781",
+          "40.752039"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 6505838256 / 1018195828<br />Ratio: 6.39",
+        "entries": 6505838256,
+        "exits": 1018195828,
+        "line": "M",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "36th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.986122",
+          "40.732849"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 640481542 / 703715800<br />Ratio: 0.91",
+        "entries": 640481542,
+        "exits": 703715800,
+        "line": "L",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "3rd Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.010006",
+          "40.648939"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 530309233 / 575906557<br />Ratio: 0.92",
+        "entries": 530309233,
+        "exits": 575906557,
+        "line": "R",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "45th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.913333",
+          "40.756312"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 1655254114 / 1195409991<br />Ratio: 1.38",
+        "entries": 1655254114,
+        "exits": 1195409991,
+        "line": "M",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "46th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.989779",
+          "40.670272"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 968901963 / 959011830<br />Ratio: 1.01",
+        "entries": 968901963,
+        "exits": 959011830,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "4th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.985984",
+          "40.762456"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: C<br />Entries / Exits: 6331903662 / 5786595989<br />Ratio: 1.09",
+        "entries": 6331903662,
+        "exits": 5786595989,
+        "line": "C",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "50th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.97192",
+          "40.757107"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: E<br />Entries / Exits: 17712475812 / 14759780942<br />Ratio: 1.2",
+        "entries": 17712475812,
+        "exits": 14759780942,
+        "line": "E",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "51st St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.014034",
+          "40.645069"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: R<br />Entries / Exits: 1128246264 / 601901134<br />Ratio: 1.87",
+        "entries": 1128246264,
+        "exits": 601901134,
+        "line": "R",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "53rd St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.995476",
+          "40.631435"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 405126694 / 319107326<br />Ratio: 1.27",
+        "entries": 405126694,
+        "exits": 319107326,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "55th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.980658",
+          "40.764664"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: N<br />Entries / Exits: 2640582913 / 2340618433<br />Ratio: 1.13",
+        "entries": 2640582913,
+        "exits": 2340618433,
+        "line": "N",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "57th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.967967",
+          "40.762526"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: N<br />Entries / Exits: 7927665241 / 7457138031<br />Ratio: 1.06",
+        "entries": 7927665241,
+        "exits": 7457138031,
+        "line": "N",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "59th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.898453",
+          "40.749669"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 520589830 / 520550389<br />Ratio: 1.0",
+        "entries": 520589830,
+        "exits": 520550389,
+        "line": "M",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "65th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.852719",
+          "40.726523"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: M<br />Entries / Exits: 1483963932 / 1021053513<br />Ratio: 1.45",
+        "entries": 1483963932,
+        "exits": 1021053513,
+        "line": "M",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "67th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.996786",
+          "40.737335"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 964931303 / 414961599<br />Ratio: 2.33",
+        "entries": 964931303,
+        "exits": 414961599,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "6th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.998864",
+          "40.619589"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 834212738 / 528790600<br />Ratio: 1.58",
+        "entries": 834212738,
+        "exits": 528790600,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "71st St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.98197",
+          "40.778453"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 113579143864 / 150081740078<br />Ratio: 0.76",
+        "entries": 113579143864,
+        "exits": 150081740078,
+        "line": "1",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "72nd St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.837324",
+          "40.718331"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: E<br />Entries / Exits: 4472701245 / 45842323<br />Ratio: 97.57",
+        "entries": 4472701245,
+        "exits": 45842323,
+        "line": "E",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "75th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.959874",
+          "40.77362"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 6<br />Entries / Exits: 59455186072 / 9787988379<br />Ratio: 6.07",
+        "entries": 59455186072,
+        "exits": 9787988379,
+        "line": "6",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "77th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.00061",
+          "40.613501"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 9020166311 / 2058736019<br />Ratio: 4.38",
+        "entries": 9020166311,
+        "exits": 2058736019,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "79th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.981637",
+          "40.762862"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: B<br />Entries / Exits: 945247237 / 1006309647<br />Ratio: 0.94",
+        "entries": 945247237,
+        "exits": 1006309647,
+        "line": "B",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "7th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.976218",
+          "40.788644"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 94823433556 / 102664715025<br />Ratio: 0.92",
+        "entries": 94823433556,
+        "exits": 102664715025,
+        "line": "1",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "86th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-74.002578",
+          "40.739777"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 24213884091 / 3535082534<br />Ratio: 6.85",
+        "entries": 24213884091,
+        "exits": 3535082534,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "8th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.972323",
+          "40.793919"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 1<br />Entries / Exits: 32854766050 / 59974101776<br />Ratio: 0.55",
+        "entries": 32854766050,
+        "exits": 59974101776,
+        "line": "1",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "96th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.994324",
+          "40.646292"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 1001830084 / 978395044<br />Ratio: 1.02",
+        "entries": 1001830084,
+        "exits": 978395044,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "9th Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.988302",
+          "40.670847"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 1188833608 / 651058946<br />Ratio: 1.83",
+        "entries": 1188833608,
+        "exits": 651058946,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "9th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-73.898654",
           "40.676992"
         ],
@@ -79,6 +1333,25 @@
     {
       "geometry": {
         "coordinates": [
+          "-73.983765",
+          "40.588841"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 367280290 / 336204458<br />Ratio: 1.09",
+        "entries": 367280290,
+        "exits": 336204458,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Bay 50th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-73.993728",
           "40.601875"
         ],
@@ -130,6 +1403,158 @@
         "marker-color": "#32cd32",
         "marker-symbol": "rail-metro",
         "title": "Baychester Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.827559",
+          "40.583209"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: H<br />Entries / Exits: 43509438 / 62624653<br />Ratio: 0.69",
+        "entries": 43509438,
+        "exits": 62624653,
+        "line": "H",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 105th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.761353",
+          "40.600066"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 264338950 / 290806561<br />Ratio: 0.91",
+        "entries": 264338950,
+        "exits": 290806561,
+        "line": "A",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 25th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.768175",
+          "40.595398"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 150109806 / 146915711<br />Ratio: 1.02",
+        "entries": 150109806,
+        "exits": 146915711,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 36th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.776013",
+          "40.592943"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 92539660 / 121599974<br />Ratio: 0.76",
+        "entries": 92539660,
+        "exits": 121599974,
+        "line": "A",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 44th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.788522",
+          "40.592374"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 5145295137 / 362593302<br />Ratio: 14.19",
+        "entries": 5145295137,
+        "exits": 362593302,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 60th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.796924",
+          "40.590927"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: A<br />Entries / Exits: 355177119 / 345418581<br />Ratio: 1.03",
+        "entries": 355177119,
+        "exits": 345418581,
+        "line": "A",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 67th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.813641",
+          "40.588034"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: H<br />Entries / Exits: 201526345 / 218242919<br />Ratio: 0.92",
+        "entries": 201526345,
+        "exits": 218242919,
+        "line": "H",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 90th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.820558",
+          "40.585307"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: H<br />Entries / Exits: 174048573 / 191225080<br />Ratio: 0.91",
+        "entries": 174048573,
+        "exits": 191225080,
+        "line": "H",
+        "marker-color": "#cd5c5c",
+        "marker-symbol": "rail-metro",
+        "title": "Beach 98th St"
       },
       "type": "Feature"
     },
@@ -782,6 +2207,25 @@
     {
       "geometry": {
         "coordinates": [
+          "-73.899485",
+          "40.650573"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: L<br />Entries / Exits: 800752735 / 734291640<br />Ratio: 1.09",
+        "entries": 800752735,
+        "exits": 734291640,
+        "line": "L",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "East 105th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-73.990173",
           "40.713715"
         ],
@@ -1219,6 +2663,25 @@
     {
       "geometry": {
         "coordinates": [
+          "-73.783817",
+          "40.712646"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 55982073490 / 14736884452<br />Ratio: 3.8",
+        "entries": 55982073490,
+        "exits": 14736884452,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Jamaica-179th St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-73.922913",
           "40.706607"
         ],
@@ -1504,6 +2967,25 @@
     {
       "geometry": {
         "coordinates": [
+          "-73.951418",
+          "40.712792"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: G<br />Entries / Exits: 1918825681 / 1722501181<br />Ratio: 1.11",
+        "entries": 1918825681,
+        "exits": 1722501181,
+        "line": "G",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Metropolitan Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-73.93985",
           "40.707739"
         ],
@@ -1618,6 +3100,25 @@
     {
       "geometry": {
         "coordinates": [
+          "-73.951277",
+          "40.724635"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: G<br />Entries / Exits: 7298667424 / 2375001253<br />Ratio: 3.07",
+        "entries": 7298667424,
+        "exits": 2375001253,
+        "line": "G",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Nassau Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-73.980492",
           "40.688246"
         ],
@@ -1726,6 +3227,25 @@
         "marker-color": "#cd5c5c",
         "marker-symbol": "rail-metro",
         "title": "Norwood Av"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.878855",
+          "40.874811"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: D<br />Entries / Exits: 902898193 / 790683648<br />Ratio: 1.14",
+        "entries": 902898193,
+        "exits": 790683648,
+        "line": "D",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Norwood-205th St"
       },
       "type": "Feature"
     },
@@ -1859,6 +3379,25 @@
         "marker-color": "#32cd32",
         "marker-symbol": "rail-metro",
         "title": "Pelham Parkway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.894895",
+          "40.664635"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: 3<br />Entries / Exits: 1129553063 / 411758832<br />Ratio: 2.74",
+        "entries": 1129553063,
+        "exits": 411758832,
+        "line": "3",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Pennsylvania Av"
       },
       "type": "Feature"
     },
@@ -2106,6 +3645,25 @@
         "marker-color": "#32cd32",
         "marker-symbol": "rail-metro",
         "title": "Simpson St"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-73.995959",
+          "40.67358"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Line: F<br />Entries / Exits: 411423291 / 317748452<br />Ratio: 1.29",
+        "entries": 411423291,
+        "exits": 317748452,
+        "line": "F",
+        "marker-color": "#32cd32",
+        "marker-symbol": "rail-metro",
+        "title": "Smith-9th St"
       },
       "type": "Feature"
     },
