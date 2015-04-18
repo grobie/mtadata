@@ -9,17 +9,8 @@ class Station:
 		self.line = line
 		self.lat = lat
 		self.long = long
-		self.entries = 0
-		self.exits = 0
+		self.traffic = {}
 
-	def color(self):
-		if self.entries > self.exits:
-			return '#32cd32'
-		else:
-			return '#cd5c5c'
-
-	def ratio(self):
-		return float(self.entries) / float(self.exits)
 
 def ord(n):
 	return str(n)+("th" if 4<=n%100<=20 else {1:"st",2:"nd",3:"rd"}.get(n%10, "th"))
@@ -54,6 +45,7 @@ with open('data/station-entrances.csv', newline='') as station_entrances:
 with open('data/turnstile.csv', newline='') as turnstile_csv:
 	reader = csv.DictReader(turnstile_csv)
 	for row in reader:
+		time = row['DATE'] +' '+ row['TIME']
 		name = normalize(row['STATION'])
 		if stations.get(name) == None:
 			continue
@@ -63,15 +55,17 @@ with open('data/turnstile.csv', newline='') as turnstile_csv:
 				exits = int(row[key])
 				break
 
-		stations[name].entries += int(row['ENTRIES'])
-		stations[name].exits += exits
+		stations[name].traffic[time] = {'entries': row['ENTRIES'], 'exits': exits}
+
+
+		
 
 features = []
 for key in stations:
 	station = stations[key]
 
 	# skip if no match. Sorry stations without exits.
-	if station.exits == 0:
+	if station.traffic == {}:
 		continue
 
 	features.append({
@@ -82,18 +76,12 @@ for key in stations:
 		},
 		'properties': {
 			'title': station.name,
-			'description': 'Line: ' + station.line + '<br />' +
-				'Entries / Exits: ' + str(station.entries) + ' / ' + str(station.exits) + '<br />' +
-				'Ratio: ' + str(round(station.ratio(), 2)),
 			'line': station.line,
-			'entries': station.entries,
-			'exits': station.exits,
-			'marker-symbol': 'rail-metro',
-			'marker-color': station.color(),
+			'traffic': station.traffic,
 		},
 	})
 features = sorted(features, key=lambda k: k['properties']['title'])
 geojson = {'type': 'FeatureCollection', 'features': features }
 
-print('Dumping .geojson for', len(features), 'of', len(stations), 'stations', file=sys.stderr)
+print('Dumping .geojson for' , len(features), 'of', len(stations), 'stations', file=sys.stderr)
 print(json.dumps(geojson, sort_keys=True, indent=2, separators=(',', ': ')))
