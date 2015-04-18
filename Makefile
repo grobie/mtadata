@@ -20,7 +20,7 @@ publish: web/public/data/mta-stations.geojson web/public/index.html
 	git checkout master -- $^
 	git mv -f web/public/data/* data
 	git mv -f web/public/index.html .
-	git commit -m Publish
+	git commit -m Publish || true
 	git push origin gh-pages
 	git checkout master
 
