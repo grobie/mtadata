@@ -40,24 +40,25 @@ $(document).ready(function() {
     var timeMax = parseInt(lastTrafficKeys[lastTrafficKeys.length-1]);
     var timeCurrent = timeMin;
 
-    function setStations(time){
+    function updateStations(time){
       $('#date').html(formatTime(time));
 
-      for(var i = 0; i < stations.length; i++){
-        var properties = stations[i].properties;
+      map.featureLayer.setFilter(function(feature) {
+        var properties = feature.properties;
         var traffic = properties.traffic[time.toString()];
 
+        properties['marker-symbol'] = 'rail-metro';
         if (traffic) {
           properties['marker-color'] = stationColor(traffic);
         } else {
           properties['marker-color'] = '#808080';
         }
-        properties['marker-symbol'] = 'rail-metro';
-      }
-      map.featureLayer.setGeoJSON(stations);
+        return true;
+      });
     }
 
-    setStations(timeMin.toString());
+    updateStations(timeMin.toString());
+    map.featureLayer.setGeoJSON(stations);
 
     $( "#slider" ).slider({
       min: timeMin,
@@ -65,11 +66,11 @@ $(document).ready(function() {
       step: 3600,
       change: function(event, ui){
         timeCurrent = ui.value;
-        setStations(timeCurrent);
+        updateStations(timeCurrent);
       },
       slide: function(event, ui){
         timeCurrent = ui.value;
-        setStations(timeCurrent);
+        updateStations(timeCurrent);
       },
     });
 
