@@ -2,6 +2,7 @@ import csv
 import json
 import re
 import sys
+from datetime import datetime
 
 class Station:
 	def __init__(self, name, line, lat, long):
@@ -14,6 +15,8 @@ class Station:
 
 def ord(n):
 	return str(n)+("th" if 4<=n%100<=20 else {1:"st",2:"nd",3:"rd"}.get(n%10, "th"))
+
+
 
 def normalize(name):
 	s = name.upper()
@@ -45,7 +48,8 @@ with open('data/station-entrances.csv', newline='') as station_entrances:
 with open('data/turnstile.csv', newline='') as turnstile_csv:
 	reader = csv.DictReader(turnstile_csv)
 	for row in reader:
-		time = row['DATE'] +' '+ row['TIME']
+		timeString = row['DATE'] +' '+ row['TIME']
+		time = int(datetime.strptime(timeString, '%m/%d/%Y %H:%M:%S').timestamp())
 		name = normalize(row['STATION'])
 		if stations.get(name) == None:
 			continue
@@ -55,7 +59,7 @@ with open('data/turnstile.csv', newline='') as turnstile_csv:
 				exits = int(row[key])
 				break
 
-		stations[name].traffic[time] = {'entries': row['ENTRIES'], 'exits': exits}
+		stations[name].traffic[time] = {'entries': int(row['ENTRIES']), 'exits': exits}
 
 
 		
