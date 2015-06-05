@@ -15,11 +15,11 @@ clean:
 	rm -fr data web/public/data/mta-stations.geojson
 
 .PHONY: publish
-publish: web/public/data/mta-stations.geojson web/public/index.html
+publish: web/public/data/mta-stations.geojson web/public/*
 	git checkout gh-pages
+	git rm -rf .
 	git checkout master -- $^
-	git mv -f web/public/data/* data
-	git mv -f web/public/index.html .
+	git mv -f web/public/* .
 	git commit -m Publish || true
 	git push origin gh-pages
 	git checkout master
