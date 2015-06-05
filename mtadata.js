@@ -5,11 +5,11 @@ $(document).ready(function() {
   var time = "03/07/2015 00:00:00";
 
   function stationColor(traffic){
-          if(traffic.entries > traffic.exits){
-              return '#32cd32';
-          }else{
-              return '#cd5c5c';
-          }
+    if(traffic.entries > traffic.exits){
+      return '#32cd32';
+    } else {
+      return '#cd5c5c';
+    }
   }
 
   function formatZero(number) {
@@ -36,21 +36,25 @@ $(document).ready(function() {
   jQuery.getJSON('data/mta-stations.geojson', function(data){
     var stations = data.features;
     var lastTrafficKeys = Object.keys(stations[stations.length-1].properties.traffic);
-    var timeMax = parseInt(lastTrafficKeys[lastTrafficKeys.length-1]);
     var timeMin = parseInt(Object.keys(stations[0].properties.traffic)[0]);
+    var timeMax = parseInt(lastTrafficKeys[lastTrafficKeys.length-1]);
+    var timeCurrent = timeMin;
 
     function setStations(time){
       $('#date').html(formatTime(time));
 
       for(var i = 0; i < stations.length; i++){
-            var properties = stations[i].properties;
+        var properties = stations[i].properties;
+        var traffic = properties.traffic[time.toString()];
 
-            if(properties.traffic[time]){
-                properties['marker-color'] = stationColor(properties.traffic[time]);
-            }
-            properties['marker-symbol'] = 'rail-metro';
-          }
-          map.featureLayer.setGeoJSON(stations);
+        if (traffic) {
+          properties['marker-color'] = stationColor(traffic);
+        } else {
+          properties['marker-color'] = '#808080';
+        }
+        properties['marker-symbol'] = 'rail-metro';
+      }
+      map.featureLayer.setGeoJSON(stations);
     }
 
     setStations(timeMin.toString());
@@ -59,11 +63,24 @@ $(document).ready(function() {
       min: timeMin,
       max: timeMax,
       step: 3600,
+      change: function(event, ui){
+        timeCurrent = ui.value;
+        setStations(timeCurrent);
+      },
       slide: function(event, ui){
-        var currentTime = ui.value.toString();
-        setStations(currentTime);
-      }
+        timeCurrent = ui.value;
+        setStations(timeCurrent);
+      },
     });
+
+    setInterval(function(){
+      if (timeCurrent == timeMax) {
+        timeCurrent = timeMin;
+      } else {
+        timeCurrent += 3600;
+      }
+      $('#slider').slider('value', timeCurrent);
+    }, 500);
   });
 
 });
