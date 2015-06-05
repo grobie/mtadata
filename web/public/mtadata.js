@@ -12,7 +12,26 @@ $(document).ready(function() {
           }
   }
 
+  function formatZero(number) {
+    if (number < 10) {
+      return '0' + number.toString();
+    } else {
+      return number.toString();
+    }
+  }
 
+  function formatTime(time) {
+    var a = new Date(time*1000);
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var year = a.getFullYear();
+    var month = months[a.getMonth()];
+    var date = formatZero(a.getDate());
+    var hour = formatZero(a.getHours());
+    var min = formatZero(a.getMinutes());
+    var sec = formatZero(a.getSeconds());
+
+    return month + ', ' + date + ' ' + year + ' ' + hour + ':' + min + ':' + sec;
+  }
 
   jQuery.getJSON('data/mta-stations.geojson', function(data){
     var stations = data.features;
@@ -21,6 +40,8 @@ $(document).ready(function() {
     var timeMin = parseInt(Object.keys(stations[0].properties.traffic)[0]);
 
     function setStations(time){
+      $('#date').html(formatTime(time));
+
       for(var i = 0; i < stations.length; i++){
             var properties = stations[i].properties;
 
@@ -29,7 +50,7 @@ $(document).ready(function() {
             }
             properties['marker-symbol'] = 'rail-metro';
           }
-          map.featureLayer.setGeoJSON(stations); 
+          map.featureLayer.setGeoJSON(stations);
     }
 
     setStations(timeMin.toString());
