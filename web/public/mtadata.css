@@ -17,3 +17,28 @@ footer {
 	bottom: 0;
 	right: 0;
 }
+
+.legend label,
+.legend span {
+  display:block;
+  float:left;
+  height:15px;
+  width:9%;
+  text-align:center;
+  font-size:9px;
+  color:#808080;
+}
+
+.legend label{
+	width:14.28%;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}

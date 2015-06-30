@@ -1,17 +1,51 @@
 var interval;
+var green = ['#0A9434', '#3BA95C', '#6CBE85', '#9DD4AD', '#CEE9D6'];
+var red = ['#CC0200', '#D63433', '#E06766', '#EA9999', '#F4CCCC'];
 
 $(document).ready(function() {
   L.mapbox.accessToken = 'pk.eyJ1IjoicGllcnJlcGllcnJlIiwiYSI6Ilk0NTlEcTAifQ.wb5BKEMZmXOC37hCDcC_lQ';
 
+  var legendBox = $('<div id="legend" style="display: none;"></div>');
+  var navBox = $('<nav class="legend clearfix"></nav>');
+  for(var i = 0; i < red.length; i++){
+    navBox.append('<span style="background:'+red[i]+';"></span>');
+  }
+
+  navBox.append('<span style="background:#ffffff;"></span>');
+
+  for(var i = green.length-1; i >= 0; i--){
+    navBox.append('<span style="background:'+green[i]+';"></span>');
+  }
+
+  for(var i = red.length; i > 0; i--){
+    if(i % 2 != 0) navBox.append('<label>'+(i/red.length)*100+'%</label>');
+  }
+
+  navBox.append('<label>0%</label>');
+
+  for(var i = 1; i <= green.length; i++){
+    if(i % 2 != 0) navBox.append('<label>'+(i/green.length)*100+'%</label>');
+  }
+
+  $("#map").after(legendBox.append(navBox));
   var map = L.mapbox.map('map', 'examples.map-i86nkdio').setView([40.72, -73.902], 11);
+  map.legendControl.addLegend(document.getElementById('legend').innerHTML);
   var time = "03/07/2015 00:00:00";
 
   function stationColor(traffic){
-    if(traffic.entries > traffic.exits){
-      return '#32cd32';
-    } else {
-      return '#cd5c5c';
+    if(traffic.entries == 0 && traffic.exits == 0){
+      return '#ffffff';
     }
+
+    if(traffic.entries > traffic.exits){
+      var ratio = traffic.exits/traffic.entries;
+      var color = green;
+    } else {
+      var ratio = traffic.entries/traffic.exits;
+      var color = red;
+    }
+
+    return color[Math.floor(ratio*color.length)];
   }
 
   function formatZero(number) {
@@ -85,12 +119,25 @@ $(document).ready(function() {
         timeCurrent += 3600;
       }
       $('#slider').slider('value', timeCurrent);
-    }, 500);
+    }, 1000);
   });
 
 });
 
 function stop(){
   clearInterval(interval);
+}
+
+function componentToHex(c) {
+    var hex = Math.round(c).toString(16);
+    return hex.length == 1 ? "0" + hex : hex;
+}
+
+function rgbToHex(r, g, b) {
+    return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
+}
+
+function normalize(value, in_min, in_max, out_min, out_max) {
+  return (value - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
 }
 
