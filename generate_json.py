@@ -11,6 +11,7 @@ class Station:
 		self.lat = lat
 		self.long = long
 		self.traffic = {}
+		self.trafficPrevious = {}
 
 
 def ord(n):
@@ -48,6 +49,7 @@ with open('data/station-entrances.csv', newline='') as station_entrances:
 with open('data/turnstile.csv', newline='') as turnstile_csv:
 	reader = csv.DictReader(turnstile_csv)
 	for row in reader:
+		device = row['SCP']
 		timeString = row['DATE'] +' '+ row['TIME']
 		time = int(datetime.strptime(timeString, '%m/%d/%Y %H:%M:%S').timestamp())
 		name = normalize(row['STATION'])
@@ -56,12 +58,25 @@ with open('data/turnstile.csv', newline='') as turnstile_csv:
 
 		for key in row:
 			if key.startswith('EXITS'):
-				exits = int(row[key])
+				exitsAbsolute = int(row[key])
 				break
 
-		stations[name].traffic[time] = {'entries': int(row['ENTRIES']), 'exits': exits}
+		entriesAbsolute = int(row['ENTRIES'])
+		
 
-
+		if stations[name].trafficPrevious.get('device') == device:
+			entriesRelative = entriesAbsolute - stations[name].trafficPrevious['entries']
+			exitsRelative = exitsAbsolute - stations[name].trafficPrevious['exits']
+		else:
+			entriesRelative = 0
+			exitsRelative = 0
+			
+		stations[name].trafficPrevious = {'entries': entriesAbsolute, 'exits': exitsAbsolute, 'device': device}
+		if stations[name].traffic.get(time):
+			stations[name].traffic[time]['entries'] += entriesRelative
+			stations[name].traffic[time]['exits'] += exitsRelative
+		else:
+			stations[name].traffic[time] = {'entries': entriesRelative, 'exits': exitsRelative}
 		
 
 features = []
