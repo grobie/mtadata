@@ -1,3 +1,5 @@
+var interval;
+
 $(document).ready(function() {
   L.mapbox.accessToken = 'pk.eyJ1IjoicGllcnJlcGllcnJlIiwiYSI6Ilk0NTlEcTAifQ.wb5BKEMZmXOC37hCDcC_lQ';
 
@@ -50,8 +52,10 @@ $(document).ready(function() {
         properties['marker-symbol'] = 'rail-metro';
         if (traffic) {
           properties['marker-color'] = stationColor(traffic);
+          properties['description'] = traffic.entries + ' / ' + traffic.exits;
         } else {
           properties['marker-color'] = '#808080';
+          properties['description'] = 'none';
         }
         return true;
       });
@@ -74,7 +78,7 @@ $(document).ready(function() {
       },
     });
 
-    setInterval(function(){
+    interval = setInterval(function(){
       if (timeCurrent == timeMax) {
         timeCurrent = timeMin;
       } else {
@@ -86,4 +90,7 @@ $(document).ready(function() {
 
 });
 
+function stop(){
+  clearInterval(interval);
+}
 
